@@ -1,2 +1,2 @@
 # TodoAppinSwiftUI
- A simple app in swiftUI about TODO app
+ A simple app in swiftUI about TODO list
